@@ -91,5 +91,5 @@ const lapicera = {
     marca: "Faber",
     color: "negro",
     precio: 100,
-    tieneTapa: true
+    tieneTapa: true   // 1:01:35
 }
